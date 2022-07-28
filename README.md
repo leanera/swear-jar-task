@@ -83,9 +83,10 @@ at: aline.kniestedt@leanera.net
 
 
 
-<div style='display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;'>
+<div style="display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;">
   <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background: #E69804; width: 50px; height: 50px">
-  #E69804
+    <img src="./.github/noun-piggy-bank-131970.svg" alt="" style="width: 50px; height: 50px">
+    <span>#E69804</span>
   </div>
   <div style="grid-column-start: 2; grid-column-end: 2; grid-row-start: 1; grid-row-end: 1; background: #FBB023; width: 50px; height: 50px">
   </div>
@@ -111,10 +112,7 @@ at: aline.kniestedt@leanera.net
   </div>
 </div>
 
- <div style="position: relative; width: 100px; height: 100px">
-  <img src="./.github/noun-piggy-bank-131970.svg" alt="" style="background: #E69804;">
-  <span style="position: absolute; top: 45%; left: 25%; color: black;">#E69804</span>
-</div>
+ 
 
 
 <!-- |#E69804|#FBB023|#FDD487|#FEE6B9|
