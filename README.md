@@ -81,14 +81,14 @@ at: aline.kniestedt@leanera.net
 - Text Font: Karla Light
 - Picture files are located in the github folder
 
+<p align="center">
+  <img src="./.github/color-palette.png" alt="" width="300" height="auto">
+</p>
 
 
-<div style="display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;">
-  <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background: #E69804;">
-    <div style="width: 100px; height: 100px">
-      <img src="./.github/noun-piggy-bank-131970.svg" alt="" style="width: 50px; height: 50px">
-      #E69804
-    </div>
+
+<!-- <div style="display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;">
+  <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background: #E69804; width: 50px; height: 50px">
   </div>
   <div style="grid-column-start: 2; grid-column-end: 2; grid-row-start: 1; grid-row-end: 1; background: #FBB023; width: 50px; height: 50px">
   </div>
@@ -112,7 +112,7 @@ at: aline.kniestedt@leanera.net
   </div>
   <div style="grid-column-start: 4; grid-column-end: 4; grid-row-start: 3; grid-row-end: 3; background: #EDEDED; width: 50px; height: 50px">
   </div>
-</div>
+</div> -->
 
  
 
@@ -193,7 +193,12 @@ unter: aline.kniestedt@leanera.net
 - Text: Karla Light
 - Die Grafiken befinden sich im github Ordner
 
-<div style='display: grid; grid-template-rows: auto; grid-template-columns: auto; gap: 15px;'>
+
+<p align="center">
+  <img src="./.github/color-palette.png" alt="" width="300" height="auto">
+</p>
+
+<!-- <div style='display: grid; grid-template-rows: auto; grid-template-columns: auto; gap: 15px;'>
   <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background-color: #E69804; width: 50px; height: 50px">
   </div>
   <div style="grid-column-start: 2; grid-column-end: 2; grid-row-start: 1; grid-row-end: 1; background-color: #FBB023; width: 50px; height: 50px">
@@ -218,4 +223,4 @@ unter: aline.kniestedt@leanera.net
   </div>
   <div style="grid-column-start: 4; grid-column-end: 4; grid-row-start: 3; grid-row-end: 3; background-color: #EDEDED; width: 50px; height: 50px">
   </div>
-</div>
+</div> -->
