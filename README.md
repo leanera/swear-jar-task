@@ -111,27 +111,11 @@ at: aline.kniestedt@leanera.net
   </div>
 </div>
 
- <div style="background: #E69804; width: 50px; height: 50px">
-  #E69804
-  </div>
+ <div style="position: relative; width: 100px; height: 100px">
+  <img src="./.github/noun-piggy-bank-131970.svg" alt="" style="background: #E69804;">
+  <span style="position: absolute; top: 45%; left: 25%; color: black;">#E69804</span>
+</div>
 
-  <p style="background-color: #E69804; width: 50px; height: 50px">
-  #E69804
-  </p>
-
-  <span style="background-color: #E69804; width: 50px; height: 50px">
-  #E69804
-  </span>
-
-   <div style="
-  border-radius: .5em;
-  box-shadow: 0 0 5px rgba(0, 0, 0, .3  );
-  padding: 2em;
-  position: relative; background: #E69804">
-  #E69804
-  </div>
-
-  <span style="color:blue">some *blue* text</span>
 
 <!-- |#E69804|#FBB023|#FDD487|#FEE6B9|
 |-------|-------|-------|-------|
