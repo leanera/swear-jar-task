@@ -81,6 +81,8 @@ at: aline.kniestedt@leanera.net
 - Text Font: Karla Light
 - Picture files are located in the github folder
 
+
+
 <div style='display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;'>
   <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background: #E69804; width: 50px; height: 50px">
   #E69804
@@ -108,6 +110,28 @@ at: aline.kniestedt@leanera.net
   <div style="grid-column-start: 4; grid-column-end: 4; grid-row-start: 3; grid-row-end: 3; background: #EDEDED; width: 50px; height: 50px">
   </div>
 </div>
+
+ <div style="background: #E69804; width: 50px; height: 50px">
+  #E69804
+  </div>
+
+  <p style="background-color: #E69804; width: 50px; height: 50px">
+  #E69804
+  </p>
+
+  <span style="background-color: #E69804; width: 50px; height: 50px">
+  #E69804
+  </span>
+
+   <div style="
+  border-radius: .5em;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .3  );
+  padding: 2em;
+  position: relative; background: #E69804">
+  #E69804
+  </div>
+
+  <span style="color:blue">some *blue* text</span>
 
 <!-- |#E69804|#FBB023|#FDD487|#FEE6B9|
 |-------|-------|-------|-------|
