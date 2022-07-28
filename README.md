@@ -83,6 +83,7 @@ at: aline.kniestedt@leanera.net
 
 <div style='display: grid; grid-template-rows: auto; grid-area-columns: auto; gap: 15px;'>
   <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background-color: #E69804; width: 50px; height: 50px">
+  <div align="center">#E69804</div>
   </div>
   <div style="grid-column-start: 2; grid-column-end: 2; grid-row-start: 1; grid-row-end: 1; background-color: #FBB023; width: 50px; height: 50px">
   </div>
