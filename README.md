@@ -10,6 +10,8 @@
 
 <br>
 
+./color-palette
+
 # Piggy Bank for Words (German version below)
 ## WHAT THE... ?!
 
@@ -81,9 +83,13 @@ at: aline.kniestedt@leanera.net
 - Text Font: Karla Light
 - Picture files are located in the github folder
 
-<p align="center">
-  <img src="./.github/color-palette.png" alt="" width="300" height="auto">
-</p>
+#E69804 | #FBB023 | #FDD487 | #FEE6B9
+:----: | :----: | :----: | :----:
+![#E69804](./.github/color-palette/E69804.svg) | ![#FBB023](./.github/color-palette/FBB023.svg) | ![#FDD487](./.github/color-palette/FDD487.svg) | ![#FEE6B9](./.github/color-palette/FEE6B9.svg)
+**#208D9E**  | **#2BBCD2**  | **#9BDFE9** | **#E1F6F9**
+![#208D9E](./.github/color-palette/208D9E.svg) | ![#2BBCD2](./.github/color-palette/2BBCD2.svg) | ![#9BDFE9](./.github/color-palette/9BDFE9.svg) | ![#E1F6F9](./.github/color-palette/E1F6F9.svg)
+**#5F5F5F**  | **#7F7F7F**  | **#C2C2C2** | **#EDEDED**
+![#5F5F5F](./.github/color-palette/5F5F5F.svg) | ![#7F7F7F](./.github/color-palette/7F7F7F.svg) | ![#C2C2C2](./.github/color-palette/C2C2C2.svg) | ![#EDEDED](./.github/color-palette/EDEDED.svg)
 
 #
 #  Das Phrasenschwein
@@ -154,6 +160,10 @@ unter: aline.kniestedt@leanera.net
 - Text: Karla Light
 - Die Grafiken befinden sich im github Ordner
 
-<p align="center">
-  <img src="./.github/color-palette.png" alt="" width="300" height="auto">
-</p>
+#E69804 | #FBB023 | #FDD487 | #FEE6B9
+:----: | :----: | :----: | :----:
+![#E69804](./.github/color-palette/E69804.svg) | ![#FBB023](./.github/color-palette/FBB023.svg) | ![#FDD487](./.github/color-palette/FDD487.svg) | ![#FEE6B9](./.github/color-palette/FEE6B9.svg)
+**#208D9E**  | **#2BBCD2**  | **#9BDFE9** | **#E1F6F9**
+![#208D9E](./.github/color-palette/208D9E.svg) | ![#2BBCD2](./.github/color-palette/2BBCD2.svg) | ![#9BDFE9](./.github/color-palette/9BDFE9.svg) | ![#E1F6F9](./.github/color-palette/E1F6F9.svg)
+**#5F5F5F**  | **#7F7F7F**  | **#C2C2C2** | **#EDEDED**
+![#5F5F5F](./.github/color-palette/5F5F5F.svg) | ![#7F7F7F](./.github/color-palette/7F7F7F.svg) | ![#C2C2C2](./.github/color-palette/C2C2C2.svg) | ![#EDEDED](./.github/color-palette/EDEDED.svg)
