@@ -193,20 +193,20 @@ unter: aline.kniestedt@leanera.net
 - Text: Karla Light
 - Die Grafiken befinden sich im github Ordner
 
-#1589F0 | #1589F0 | #1589F0
+<!-- #1589F0 | #1589F0 | #1589F0
 :----: | :----: | :----:
 ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+)
 **#1589F0**  | **#1589F0**  | **#1589F0**
 ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+)
 **#1589F0**  | **#1589F0**  | **#1589F0**
-![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+)
+![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) | ![#1589F0](https://via.placeholder.com/80/1589F0/000000?text=+) -->
 
 
 
-<!-- 
+
 <p align="center">
   <img src="./.github/color-palette.png" alt="" width="300" height="auto">
-</p> -->
+</p>
 
 <!-- <div style='display: grid; grid-template-rows: auto; grid-template-columns: auto; gap: 15px;'>
   <div style="grid-column-start: 1; grid-column-end: 1; grid-row-start: 1; grid-row-end: 1; background-color: #E69804; width: 50px; height: 50px">
